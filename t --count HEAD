@@ -1,0 +1,8 @@
+[33m48bbf65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m visualization: agrega graficos de distribucion y segmentacion con seaborn
+[33mbb02c57[m docs: documenta proyecto y resultados del analisis
+[33m7d247a5[m visualization: genera cinco graficos de operaciones aereas
+[33m1ea17e2[m analysis: agrupaciones por año aeropuerto tipo y mes
+[33ma2bb810[m data: transforma fechas y exporta datos procesados
+[33medbf142[m analysis: perfilamiento y validacion de calidad de datos
+[33m3bc4d9a[m data: incorpora datos originales y dependencias
+[33mee8bb35[m config: crea estructura inicial del proyecto
